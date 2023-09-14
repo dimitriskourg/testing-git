@@ -1,8 +1,8 @@
 first
 A
 B
-C
-D
+CD
+DEF
 E
 F
 G
